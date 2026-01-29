@@ -97,12 +97,6 @@ En Machine Learning es fácil copiar código y confiar en que "funciona". Pero *
 
 **Las matemáticas explican todo. La curiosidad es el motor del aprendizaje.**
 
-## 📚 Recursos
-
-- 📄 **Documento interactivo**: [Ver en RPubs](https://rpubs.com/Alej5ndro/DecisionTreesRegression)
-- 📄 **Documento acceso a repositrio**:[ver en github](https://alej2andro.github.io/Decision-Tree-Regression-Algorithm/)
-- 📖 **Referencia**: Breiman et al. (1984) - Classification and Regression Trees
-
 ## 📬 Contacto
 
 **Alejandro Figueroa Rojas**
