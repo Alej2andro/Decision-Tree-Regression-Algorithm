@@ -87,7 +87,7 @@ En Machine Learning es fácil copiar código y confiar en que "funciona". Pero *
 
 ## 📚 Recursos
 
-- 📄 **Documento interactivo**: [Ver en RPubs](https://rpubs.com/Alej5ndro)
+- 📄 **Documento interactivo**: [Ver en RPubs](https://rpubs.com/Alej5ndro/DecisionTreesRegression)
 - 📖 **Referencia**: Breiman et al. (1984) - Classification and Regression Trees
 
 ## 📬 Contacto
