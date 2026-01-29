@@ -1,5 +1,11 @@
 # 🌳 Árboles de Decisión para Regresión
 
+## 📚 Recursos
+
+- 📄 **Documento interactivo**: [Ver en RPubs](https://rpubs.com/Alej5ndro/DecisionTreesRegression)
+- 📄 **Documento acceso a repositrio**:[ver en github](https://alej2andro.github.io/Decision-Tree-Regression-Algorithm/)
+- 📖 **Referencia**: Breiman et al. (1984) - Classification and Regression Trees
+
 ## ¿De qué se trata este proyecto?
 
 Este proyecto analiza **cómo funcionan los Árboles de Decisión** desde sus fundamentos matemáticos. No es solo ejecutar código: es entender **por qué** el algoritmo toma cada decisión.
@@ -88,6 +94,7 @@ En Machine Learning es fácil copiar código y confiar en que "funciona". Pero *
 ## 📚 Recursos
 
 - 📄 **Documento interactivo**: [Ver en RPubs](https://rpubs.com/Alej5ndro/DecisionTreesRegression)
+- 📄 **Documento acceso a repositrio**:[ver en github](https://alej2andro.github.io/Decision-Tree-Regression-Algorithm/)
 - 📖 **Referencia**: Breiman et al. (1984) - Classification and Regression Trees
 
 ## 📬 Contacto
