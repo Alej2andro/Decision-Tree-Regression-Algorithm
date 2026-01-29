@@ -1,5 +1,11 @@
 # 🌳 Árboles de Decisión para Regresión
 
+<p align="center">
+  <img src="https://st2.depositphotos.com/1121376/6933/i/450/depositphotos_69332881-stock-photo-mighty-oak-tree.jpg" width="500" alt="Decision Tree Regression Algorithm">
+  <br>
+  <b>Decision Tree Regression Algorithm</b>
+</p>
+
 ## 📚 Recursos
 
 - 📄 **Documento interactivo**: [Ver en RPubs](https://rpubs.com/Alej5ndro/DecisionTreesRegression)
