@@ -3,7 +3,7 @@
 ## 📚 Recursos
 
 - 📄 **Documento interactivo**: [Ver en RPubs](https://rpubs.com/Alej5ndro/DecisionTreesRegression)
-- 📄 **Documento acceso a repositrio**:[Ver en github](https://alej2andro.github.io/Decision-Tree-Regression-Algorithm/)
+- 📄 **Documento acceso a repositrio**:[Ver en GitHub](https://alej2andro.github.io/Decision-Tree-Regression-Algorithm/)
 - 📖 **Referencia**: Breiman et al. (1984) - Classification and Regression Trees
 
 ## ¿De qué se trata este proyecto?
